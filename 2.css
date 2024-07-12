@@ -1,0 +1,51 @@
+* {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "slnt" 0;
+}
+
+h2 {
+  text-align: center;
+}
+
+#img7, #img8, #img9, #img10, #img11 {
+  position: absolute;
+  width: 186px;
+}
+
+#img7 {
+  bottom: 20px;
+  width: 215px;
+  left: 45px;
+
+}
+
+#img8 {
+  right: 12px;
+  transform: rotate(-5deg);
+}
+
+#img9 {
+  top: 295px;
+  right: 12px;
+  transform: rotate(9deg);
+}
+
+#img10 {
+  top: 275px;
+  left: 12px;
+  transform: rotate(-4deg);
+}
+
+#img11 {
+  top: 90px;
+  left: 12px;
+  transform: rotate(7deg);
+}
+
+a {
+  position: absolute;
+  bottom: 175px;
+  right: 10px;
+} 

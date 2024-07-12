@@ -1,0 +1,54 @@
+* {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  #img32, #img33, #img34, #img35, #img36 {
+    position: absolute;
+    width: 186px;
+  }
+  
+  #img32 {
+    bottom: 75px;
+    width: 200px;
+    left: 75px;
+    transform: rotate(-2deg);
+    z-index: 100;
+    
+  }
+  
+  #img33 {
+    right: 12px;
+    transform: rotate(-5deg);
+  }
+  
+  #img34 {
+    top: 275px;
+    right: 25px;
+    transform: rotate(9deg);
+  }
+  
+  #img35 {
+    top: 320px;
+    left: 12px;
+    transform: rotate(-4deg);
+  }
+  
+  #img36 {
+    width: 200px;
+    top: 90px;
+    left: 12px;
+    transform: rotate(2deg);
+  }
+  
+  a {
+    position: absolute;
+    bottom: 25px;
+    left: 275px;
+  } 

@@ -1,0 +1,32 @@
+* {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+
+  #img38 {
+    margin-top: 24px;
+    transform: rotate(-2deg);
+  }
+
+  #img39 {
+    height: 400px;
+    transform: rotate(-88deg);
+    margin-left: 95px;
+  }
+  
+  a {
+    position: absolute;
+    bottom: 35px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+  } 

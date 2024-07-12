@@ -1,0 +1,49 @@
+* {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "slnt" 0;
+}
+
+.title {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title button {
+  font-size: 18px;
+}
+
+#img1, #img2, #img3 {
+  height: 128px;
+  position: absolute;
+}
+
+#img1 {
+  top: 225px;
+  left: 18px;
+  transform: rotate(8deg);
+}
+
+#img2 {
+  top: 250px;
+  right: 16px;
+  transform: rotate(-5deg);
+}
+
+#img3 {
+  bottom: 200px;
+  right: 14px;
+  transform: rotate(8deg);
+}
+
+#img4 {
+  position: absolute;
+  width: 164px;
+  bottom: 100px;
+  left: 20px;
+  transform: rotate(-5deg);
+}
